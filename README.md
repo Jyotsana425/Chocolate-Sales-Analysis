@@ -75,7 +75,7 @@ The dataset was cleaned using Power Query Editor.
 ##  Dashboard Preview
 
 
-![dashboard](Chocolate sales dashboard.png)
+![Dashboard](Chocolate sales dashboard.png)
 
 
 ---
