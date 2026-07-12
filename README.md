@@ -21,7 +21,7 @@ This project analyzes chocolate sales data using Microsoft Power BI. The dashboa
 * DAX
 * Microsoft Excel
   
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 The dataset was cleaned using Power Query Editor.
 
@@ -74,7 +74,7 @@ The dataset was cleaned using Power Query Editor.
 
 ##  Dashboard Preview
 
-![Dashboard](Chocolate sales dashboard.png)
+![Chocolate Sales Dashboard](dashboard.png)
 
 
 ---
